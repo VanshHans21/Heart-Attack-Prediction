@@ -18,7 +18,7 @@ This project uses machine learning to predict the likelihood of a heart attack b
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shivam5551/heart-attack-prediction.git
+   git clone https://github.com/VanshHans21/Heart-Attack-Prediction/
    ```
 2. Navigate to the project directory:
    ```bash
